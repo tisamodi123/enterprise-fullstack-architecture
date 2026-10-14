@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3",
+    "multer": "^2.1.1",
+    "nodemon": "^3.1.14",
+    "xlsx": "^0.18.5"
+  }
+}
