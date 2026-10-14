@@ -95,9 +95,3 @@ npm run dev
 cd "MongoDB_ACID_Transactions_&_HierarchicalTrees"
 npm install
 npm run dev
-```
-
----
-
-## 📜 License
-This project is open-source and available under the MIT License.
