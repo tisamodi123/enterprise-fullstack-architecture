@@ -1,6 +1,6 @@
-# Full-Stack Authentication & E-Commerce Core Services
+# E-Commerce Suite: Secure Authentication (Forgot/Reset Password), Order Lifecycle & Live Currency Engine
 
-A complete full-stack system featuring secure authentication workflows, robust e-commerce order exceptions (cancellations, returns, refunds), automated currency synchronization, and promo-code engines.
+A complete full-stack system featuring secure authentication workflows (SHA-256 password reset, Nodemailer), robust e-commerce order lifecycle & exceptions (cancellations, returns, refunds), automated currency synchronization, and promo-code engines.
 
 ---
 

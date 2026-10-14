@@ -1,6 +1,6 @@
-# Production React Custom Hooks
+# React Custom Hooks: LazyLoader, Viewport Observers (IntersectionObserver) & Dynamic Layouts
 
-A collection of optimized React utility hooks and components designed for UI performance and dynamic data handling.
+A production-tested collection of React custom hooks and utility components designed for viewport observation, lazy component mounting, and responsive grid table heights.
 
 ---
 

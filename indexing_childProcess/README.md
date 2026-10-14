@@ -1,4 +1,4 @@
-# Asynchronous Excel Processing via Node.js Child Processes
+# Asynchronous Excel Ingestion via Node.js Child Process (Fork & IPC)
 
 A high-performance pattern demonstrating how to offload heavy file parsing and database upserts to an isolated Child Process (`child_process.fork`) without blocking the Node.js Event Loop.
 

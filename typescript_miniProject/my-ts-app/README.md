@@ -1,6 +1,6 @@
-# TaskMaster TS — Next.js & TypeScript Task Manager
+# TaskMaster TS: Type-Safe Task Dashboard (Next.js, TypeScript Union Types & LocalStorage Hook)
 
-A modern, type-safe task dashboard built with Next.js App Router, Tailwind CSS, and strict TypeScript types.
+A modern, type-safe task dashboard built with Next.js App Router, Tailwind CSS, custom localStorage state persistence, and strict TypeScript union types.
 
 ---
 

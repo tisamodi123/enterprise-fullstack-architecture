@@ -1,4 +1,4 @@
-# High-Performance Node.js & MongoDB Indexing Architecture
+# High-Throughput Bulk Data Ingestion: Node.js Streams, Batching & MongoDB Index Optimization
 
 This module demonstrates high-throughput data processing and indexing strategies in Node.js and MongoDB, handling large-scale data ingestion without blocking the Event Loop.
 

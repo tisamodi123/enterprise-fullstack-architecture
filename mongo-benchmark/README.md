@@ -1,6 +1,6 @@
-# MongoDB Benchmark Report: 200,000 Records Insertion & Indexing Performance
+# MongoDB Performance Benchmark: 2 Lakh Records Bulk Ingestion & B-Tree Index Optimization
 
-A comprehensive performance case study benchmarking data generation, multi-threaded bulk insertion, and MongoDB indexing strategies on 200,000 records.
+A comprehensive performance case study benchmarking data generation via Node.js Streams, multi-threaded bulk insertion with mongoimport CLI, and MongoDB B-Tree indexing strategies on 200,000 records.
 
 ---
 

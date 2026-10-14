@@ -1,6 +1,6 @@
-# Nested Task Management with MongoDB ACID Transactions & Hierarchical Trees
+# Hierarchical Task API: MongoDB ACID Transactions & $graphLookup Recursive Trees
 
-A resilient REST API demonstrating multi-document ACID transactions, activity auditing, and hierarchical nested task trees using MongoDB's `$graphLookup` aggregation.
+A resilient REST API demonstrating multi-document ACID transactions with rollback support, user activity auditing, and zero-loop hierarchical nested task trees using MongoDB's `$graphLookup` aggregation.
 
 ---
 
