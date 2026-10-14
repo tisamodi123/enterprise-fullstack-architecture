@@ -48,7 +48,3 @@ db.companyDB_indexing.find({ email: "user199999@example.com" }).explain("executi
 - **Total Documents Examined:** 1
 - **Execution Time:** ~0ms - 2ms (direct B-Tree node hit)
 
----
-
-## 💡 Key Takeaway
-Index optimization transforms database operations from $O(n)$ full-table scans to $O(\log n)$ B-tree lookups, enabling Node.js backends to handle massive concurrency without database bottlenecks.
