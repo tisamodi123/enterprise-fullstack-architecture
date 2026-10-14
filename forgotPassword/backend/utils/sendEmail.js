@@ -5,8 +5,8 @@ const sendEmail = async (options) => {
   const transporter = nodemailer.createTransport({
     service: 'gmail', // 👈 Host aur Port ki zaroorat nahi, Nodemailer khud handle karega
     auth: {
-      user: process.env.SMTP_USER, // dummy.one789@gmail.com
-      pass: process.env.SMTP_PASS, // xzmmatwjeuabrut
+      user: process.env.SMTP_USER,
+      pass: process.env.SMTP_PASS,
     },
   });
 
